@@ -36,6 +36,7 @@
         <js>
             <filename>scripts/template.js</filename>
             <filename>scripts/bootstrap-slider.js</filename>
+            <filename>scripts/iframe-resizer.js</filename>
         </js>
         <print_css>
             <filename>css/print_template.css</filename>
